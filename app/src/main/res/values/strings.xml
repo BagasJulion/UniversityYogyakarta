@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">UniversityOfYogyakarta</string>
+
+    <string name="university_name">Nama Universitas</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile">Profile</string>
+    <string name="pesan">Pesan</string>
+
+    <string-array name="data_name">
+        <item>Universitas Amikom Yogyakarta</item>
+        <item>Universitas Gadjah Mada</item>
+        <item>Universitas Negeri Yogyakarta</item>
+        <item>Universitas Sanata Dharma</item>
+        <item>Universitas Ahmad Dahlan</item>
+        <item>Universitas Muhammadiyah Yogyakarta</item>
+        <item>Institut Seni Indonesia</item>
+        <item>Universitas Islam Indonesia</item>
+        <item>UIN Sunan Kalijaga</item>
+        <item>Universitas Aisyiyah Yogyakarta</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Amikom Yogyakarta adalah sebuah perguruan tinggi yang terletak di Yogyakarta, Indonesia. Perguruan tinggi ini memiliki fokus kuat dalam bidang teknologi informasi dan komunikasi. Dengan lingkungan akademik yang inovatif, Amikom Yogyakarta telah menjadi pusat pendidikan unggulan bagi para mahasiswa yang tertarik dalam pengembangan teknologi, desain grafis, animasi, dan multimedia. Kurikulum yang berorientasi pada praktik dan industri, serta fasilitas modern seperti laboratorium komputer dan studio kreatif, memungkinkan mahasiswa untuk mengembangkan keterampilan dan pengetahuan yang relevan dengan tuntutan pasar kerja. Amikom Yogyakarta juga aktif dalam mengadakan seminar, workshop, dan kegiatan berbasis teknologi untuk mahasiswa dan masyarakat umum.</item>
+        <item>Universitas Gadjah Mada (UGM) merupakan institusi pendidikan tinggi terkemuka di Yogyakarta, Indonesia. Didirikan pada tahun 1949, UGM dikenal sebagai simbol keunggulan akademik dan penelitian. Universitas ini menawarkan beragam program studi dari berbagai disiplin ilmu, mulai dari ilmu sosial, alam, hingga humaniora. Dengan fokus pada pembelajaran interdisipliner dan penelitian berkualitas, UGM telah mencetak lulusan berprestasi dan berkontribusi dalam berbagai bidang. Kampus yang luas, fasilitas modern, dan jaringan internasional membuat UGM menjadi destinasi pilihan bagi mahasiswa dalam mengejar pendidikan tinggi yang berkualitas.</item>
+        <item>Universitas Negeri Yogyakarta (UNY) adalah lembaga pendidikan tinggi yang terletak di Yogyakarta, Indonesia. Berdiri sejak 1964, UNY telah berkomitmen untuk menyediakan pendidikan berkualitas di berbagai bidang, termasuk pendidikan, olahraga, seni, dan ilmu sosial. Dengan fokus pada pengembangan potensi individu dan pemberdayaan masyarakat, UNY telah menghasilkan lulusan yang siap berkontribusi dalam pembangunan nasional. Kampus yang ramah lingkungan dan beragam fasilitas, seperti laboratorium dan pusat penelitian, mendukung proses pembelajaran dan pengembangan riset. UNY juga aktif dalam kegiatan sosial dan budaya untuk memperkuat ikatan dengan masyarakat.</item>
+        <item>Universitas Sanata Dharma merupakan perguruan tinggi swasta terkemuka di Yogyakarta, Indonesia. Didirikan pada 1955, universitas ini menonjolkan pendekatan humanistik dan nilai-nilai religius dalam pendidikan. Dengan berbagai program studi di bidang humaniora, sosial, sains, dan teknologi, Sanata Dharma telah mencetak lulusan yang memiliki wawasan luas dan komitmen terhadap pelayanan masyarakat. Lingkungan akademik yang inklusif dan kolaboratif, serta fasilitas modern seperti perpustakaan dan laboratorium, mendukung pengembangan intelektual dan karakter mahasiswa. Universitas Sanata Dharma juga aktif dalam kegiatan budaya dan sosial guna memupuk nilai-nilai keberagaman.</item>
+        <item>Universitas Ahmad Dahlan (UAD) adalah perguruan tinggi swasta terkemuka di Yogyakarta, Indonesia. Berdiri sejak 1960, UAD mengusung pendekatan Islami dalam pendidikan yang mencakup berbagai disiplin ilmu. Dengan fokus pada pengembangan akademik dan karakter, UAD telah melahirkan lulusan yang berintegritas dan berkontribusi dalam masyarakat. Program studi yang beragam, termasuk ilmu sosial, agama, sains, dan teknologi, disesuaikan dengan tuntutan zaman. Fasilitas modern seperti laboratorium dan perpustakaan, serta lingkungan inklusif, mendukung pengembangan kreativitas dan pemikiran kritis mahasiswa. UAD juga aktif dalam kegiatan keagamaan dan pelayanan sosial.</item>
+        <item>Universitas Muhammadiyah Yogyakarta (UMY) adalah institusi pendidikan tinggi swasta yang terletak di Yogyakarta, Indonesia. Berdiri sejak 1981, UMY menerapkan prinsip-prinsip Muhammadiyah dalam pendidikan dengan penekanan pada akademik, karakter, dan keislaman. Dengan beragam program studi di berbagai bidang seperti sosial, ekonomi, teknik, dan agama, UMY telah menghasilkan lulusan yang kompeten dan bermoral. Lingkungan kampus yang berinovasi, fasilitas modern termasuk laboratorium dan pusat penelitian, serta kegiatan ekstrakurikuler yang beragam, mendukung perkembangan holistik mahasiswa. UMY juga berperan aktif dalam mengedepankan nilai-nilai keagamaan dan kontribusi sosial.</item>
+        <item>Institut Seni Indonesia Yogyakarta (ISI Yogyakarta) adalah lembaga pendidikan seni yang prestisius di Yogyakarta, Indonesia. Berdiri sejak 1984, ISI Yogyakarta telah menjadi pusat unggulan dalam pengembangan dan pemberdayaan seni dan budaya. Dengan berbagai program studi di bidang seni rupa, musik, tari, dan teater, institut ini telah melahirkan para seniman dan budayawan berbakat. Lingkungan kreatif dan fasilitas modern seperti studio seni dan auditorium mendukung eksplorasi dan ekspresi mahasiswa. ISI Yogyakarta juga aktif dalam pameran, pertunjukan, dan kolaborasi seni, berkontribusi dalam mengembangkan landskap seni Indonesia.</item>
+        <item>Universitas Islam Indonesia (UII) adalah perguruan tinggi swasta terkemuka di Yogyakarta, Indonesia. Didirikan pada 1945, UII mengintegrasikan nilai-nilai Islam dalam pendidikan dan penelitian. Dengan berbagai program studi di bidang agama, ilmu sosial, teknologi, dan kesehatan, UII telah menghasilkan lulusan yang beretika dan berkompeten. Lingkungan kampus yang inklusif, fasilitas modern seperti laboratorium dan perpustakaan, serta penekanan pada pengembangan karakter mahasiswa, mendukung pembelajaran holistik. UII juga aktif dalam kegiatan keagamaan, sosial, dan penelitian untuk kontribusi positif terhadap masyarakat dan peradaban.</item>
+        <item>Universitas Sunan Kalijaga (UIN Sunan Kalijaga) adalah lembaga pendidikan tinggi negeri yang terletak di Yogyakarta, Indonesia. Didirikan pada 1954, UIN Sunan Kalijaga fokus pada pengembangan ilmu agama dan budaya Islam. Dengan berbagai program studi di bidang keagamaan, humaniora, sosial, dan ilmu pendidikan, universitas ini telah menghasilkan lulusan yang berkualitas dan berakhlak. Lingkungan kampus yang beragam, fasilitas modern seperti perpustakaan dan masjid, serta penekanan pada pendalaman pengetahuan Islam, mendukung pengembangan akademik dan spiritual mahasiswa. UIN Sunan Kalijaga juga aktif dalam penelitian dan kegiatan keagamaan yang berkontribusi pada masyarak</item>
+        <item>Universitas Aisyiyah Yogyakarta (UNISA) adalah lembaga pendidikan tinggi swasta yang berlokasi di Yogyakarta, Indonesia. Berdiri sejak 1962, UNISA dikelola oleh organisasi Aisyiyah, bagian dari Muhammadiyah, dengan fokus pada nilai-nilai Islam dan perempuan. Dengan berbagai program studi di bidang sosial, ekonomi, agama, dan kesehatan, UNISA telah menghasilkan lulusan yang berkompeten dan berkepribadian. Kampus yang inklusif dan fasilitas modern seperti laboratorium dan pusat penelitian mendukung perkembangan akademik dan profesional. UNISA juga berperan aktif dalam advokasi gender dan pemberdayaan perempuan melalui pendidikan.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://pmm.kampusmerdeka.kemdikbud.go.id/files/logopt/051024.png</item>
+        <item>https://1.bp.blogspot.com/--NH_HafZUMI/UEsazrNB7pI/AAAAAAAAAO0/MPlCS4QU_RQ/s1600/LOGO-UGM-250.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/80/Logo-UNY-Corel-terbaru.png</item>
+        <item>https://www.usd.ac.id/logo/usd.png</item>
+        <item>https://pascasarjana.uad.ac.id/wp-content/uploads/Logo-UAD-warna1.png</item>
+        <item>https://admisi.umy.ac.id/wp-content/uploads/2020/11/Umy-logo.gif</item>
+        <item>https://seeklogo.com/images/I/institut-seni-indonesia-yogyakarta-logo-7E01205DAC-seeklogo.com.png</item>
+        <item>https://pesona-taaruf.uii.ac.id/wp-content/uploads/2020/08/UII-Biru-e1598149594177.png</item>
+        <item>https://ifoxsoft.com/wp-content/uploads/2022/11/Logo-UIN-Jogja-PNG-%E2%80%93-IfoxSoft.Com_.webp</item>
+        <item>https://ppb.unisayogya.ac.id/wp-content/uploads/2017/08/cropped-logo-unisa-crop.png</item>
+    </string-array>
+</resources>
+
